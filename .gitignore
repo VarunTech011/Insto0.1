@@ -24,6 +24,7 @@ Thumbs.db
 # Docker-related
 **/.docker
 **/.dockerignore
+**/Dockerfile
 
 # VS Code
 .vscode/
